@@ -1,4 +1,4 @@
-#@ Parkinsons-Disease-Detection Using
+# Parkinsons-Disease-Detection Using
 
 - Support Vector Machine
 - Support Vector Machine Classifier
