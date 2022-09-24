@@ -19,4 +19,4 @@ is to discriminate healthy people from those with PD, according to "status"
 column which is set to 0 for healthy and 1 for Parkinson Disease.
 
 ### Inspiration
-- Build a machine learning Model Which Predict that person has Parkinsons Disease or not
+- Build a machine learning model which predict that person has parkinsons disease or not
